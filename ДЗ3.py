@@ -42,4 +42,4 @@ n год
 2020 год
 """
 for i in range(1900,2021):
-    print(i, 'год', end=' ')
+    print(i, 'год')
